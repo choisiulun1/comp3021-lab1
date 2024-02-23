@@ -1,5 +1,5 @@
 package lab1;
 
-public class HelloWorld{
+public class HelloWorld {
 
 }
